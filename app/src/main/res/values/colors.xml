@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4d568f</color>
+    <color name="colorPrimaryDark">#3d4787</color>
+    <color name="colorAccent">#4b72df</color>
+    <color name="indication">#a7898b</color>
+
+    <color name="Light0">#545c91</color>
+    <color name="Light">#666d9e</color>
+    <color name="Light2">#777eb1</color>
+    <color name="Light2_3">#7f86ba</color>
+    <color name="Light3">#9ca3d2</color>
+    <color name="Light5">#bfc5ed</color>
+    <color name="Light4">#b6bce7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="DoubleLight">#d3d6e1</color>
+    <color name="Action">#ff4081</color>
+    <color name="itemContainer">#fae2e2fa</color>
+
+    <color name="colorDay">#fa339eef</color>
+    <color name="colorNight">#fa2b4897</color>
+    <color name="colorFog">#faaebdbf</color>
+    <color name="colorSnow">#fae7f0f1</color>
+    <color name="colorBrokenClouds">#fa7f8b8c</color>
+
+    <color name="colorStickyBG">#00897B</color>
+    <color name="colorSticky">#004989</color>
+    <color name="Dark0">#5d669e</color>
+    <color name="Dark01">#5d669e</color>
+    <color name="Dark">#525c96</color>
+    <color name="Dark2">#3d4787</color>
+
+    <color name="yellowNotif">#f7ee6e</color>
+    <color name="pinkNotif">#e97573</color>
+    <color name="Orange1">#f7c06a</color>
+    <color name="Orange2">#f7b651</color>
+    <color name="Orange3">#f2a631</color>
+    <color name="Orange4">#f29912</color>
+    <color name="Pink1">#df5045</color>
+    <color name="Pink2">#d2463b</color>
+    <color name="Pink3">#c13a30</color>
+    <color name="Pink4">#ae2f26</color>
+
+
+    <color name="color_edit_text">#3a6bb9</color>
+
+</resources>
